@@ -22,7 +22,7 @@
 
 **Build secure-by-design architectures for the European industry, bridging the gap between Operational Technology (OT) and secure software engineering.**
 
-I am an **R&D Engineer** specializing in the intersection of **Embedded Systems**, **AI**, and **Cybersecurity**. With a proven track record in developing mission-critical software for defense and industrial sectors (Baykar, Aselsan), I am currently advancing my expertise in **Offensive Security** and **Autonomous AI Systems** in **Lecce, Italy** 🇮🇹.
+I am an **R&D Engineer** specializing in the intersection of **Embedded Systems**, **AI**, and **Cybersecurity**. With a proven track record in developing mission-critical software for defense and industrial sectors (Baykar, Aselsan), I am currently advancing my expertise in **Offensive Security** and **Autonomous AI Systems**.
 
 ---
 
