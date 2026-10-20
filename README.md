@@ -1,180 +1,87 @@
 <div align="center">
 
-<!-- HEADER LINE -->
-<img width="100%" height="6px" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=6"/>
+# Hasan Hüseyin Yetkiner
 
-<br/>
+### Embedded Software & Systems Engineer
+**C++ / Qt / Linux · Cybersecurity · AI Infrastructure**
 
-<h1>👋 Hasan Hüseyin Yetkiner</h1>
+*Building dependable software at the intersection of devices, distributed systems, and intelligent applications.*
 
-<!-- TYPING SVG — using the actively-maintained demolab.com domain; the old
-     herokuapp.com one has open "broken image" issues reported as recently
-     as Jan 2026 in the upstream repo -->
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=820&lines=%F0%9F%9B%A1%EF%B8%8F+OT%2FIoT+Security+Engineer+%40+N%26C+S.p.A.;%F0%9F%8F%AD+Industrial+IoT+%26+OT+Security+%7C+Ex+Mepsan;%E2%9A%A1+Embedded+Systems+%7C+Ex-Baykar+%26+Aselsan;%F0%9F%94%90+Offensive+Security+%40+Universit%C3%A0+del+Salento;%F0%9F%94%A7+C%2B%2B+%7C+Python+%7C+MQTT+%7C+OT+Protocols" alt="Typing SVG" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasan-huseyin-yetkiner)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-24292F?style=flat-square&logo=githubpages&logoColor=white)](https://hasanhuseyinyetkiner.github.io/)
+[![Email](https://img.shields.io/badge/Email-Contact-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:hasanhuseyinyetkiner@gmail.com)
 
-<br/><br/>
-
-<!-- SOCIAL BADGES -->
-<a href="https://linkedin.com/in/hasan-huseyin-yetkiner">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>&nbsp;
-<a href="mailto:hasanhuseyinyetkiner@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>&nbsp;
-<a href="https://github.com/hasanhuseyinyetkiner">
-  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-</a>&nbsp;
-<a href="https://hasanhuseyinyetkiner.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-4A90D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=hasanhuseyinyetkiner&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
+**Based in Italy · Engineering across embedded systems, backend platforms, applied AI, and security**
 
 </div>
 
 ---
 
-```yaml
-╔══════════════════════════════════════════════════════════╗
-║                   🧠  WHO AM I?                          ║
-╚══════════════════════════════════════════════════════════╝
+## What I engineer
 
-name        : Hasan Hüseyin Yetkiner
-role        : OT/IoT Security Engineer @ N&C S.p.A.
-location    : Lecce, Italy 🇮🇹 (originally from Türkiye 🇹🇷)
-experience  : Defense (Baykar, Aselsan) → Industrial IoT/MES (Mepsan) → OT/ICS Security (N&C)
+My work spans **real-time C++ applications**, **embedded and industrial systems**, **backend infrastructure**, and **practical AI tooling**. I care about the engineering underneath the demo: observable behavior, clear interfaces, reproducible tests, and understandable trade-offs.
 
-core_skills:
-  - languages  : C++ (Expert), Python (Security Scripting), TypeScript, Bash, SQL
-  - security   : Wireshark, Nmap, Metasploit, SonarQube, SSL/TLS, AES/RSA, MQTT (Secure)
-  - frameworks : Qt Framework, ROS/ROS2, OpenCV, Node.js, Flutter
-  - tools      : Linux, Docker, Git, PostgreSQL, CMake
+| Engineering area | Practical focus |
+| --- | --- |
+| **Embedded & real-time software** | C/C++, Qt/QML, Embedded Linux, device integration, inter-process communication, responsive HMI and media pipelines |
+| **Industrial systems & connectivity** | MES integrations, RS-485, serial/TCP/IP communication, MQTT, service-to-device workflows |
+| **Backend & developer infrastructure** | Python, Node.js, TypeScript, REST, WebSockets/Socket.IO, PostgreSQL, CI/CD, test automation |
+| **Robotics & computer vision** | ROS, LiDAR data processing, OpenCV, GStreamer, sensor-facing applications |
+| **AI systems & edge inference** | Local LLMs, RAG, Qdrant, Ollama, llama.cpp, LoRA/QLoRA, quantization and resource-constrained inference |
+| **Cybersecurity engineering** | Secure software design, network/protocol analysis, vulnerability assessment, reliability and device security |
 
-currently:
-  - 🔭 Working on : OT/ICS security assessments for industrial & manufacturing clients
-  - 🎓 Studying   : EQF Level 7 Cybersecurity specialization @ Università del Salento
-  - 🌱 Learning   : Offensive security, malware analysis, live Attack & Defense (CTF) labs
-  - 🎯 Goal 2026  : Contribute to an open-source OT/ICS security tool
+## Experience behind the code
 
-philosophy  : "Talk is cheap. Show me the code." — Linus Torvalds
-```
+- **Industrial software and team leadership — Mepsan:** worked on C++/Qt manufacturing software, field communication, backend integration, delivery pipelines, and engineering quality practices; progressed into team-lead responsibilities.
+- **Real-time and defense-related software — Baykar and robotics projects:** experience with C++/Qt/QML, video-processing workflows, and ROS/LiDAR-oriented development.
+- **Network and operational systems:** earlier work in network operations, troubleshooting, and service reliability.
+- **Engineering productivity:** experience introducing automated checks, Git-based CI/CD workflows, pytest, QEMU-based testing, and static analysis into development processes.
 
----
+These are engineering areas and experience highlights, not a claim that every technology listed was used at every organization.
 
-## 🎖️ About Me
+## Selected public code
 
-I'm an **OT/IoT Security Engineer** at **N&C S.p.A.** in Lecce, Italy, working at the intersection of **embedded systems**, **industrial IoT**, and **cybersecurity**. My path runs through Turkey's defense industry — **Baykar** (Bayraktar TB2 gimbal systems) and **Aselsan** (LiDAR/autonomous systems) — and industrial IoT/MES development at **Mepsan**. I'm now deepening my offensive-security skillset through an EQF Level 7 postgraduate specialization at **Università del Salento**. I like systems that are both real-time *and* hard to break into.
+| Repository | What it explores | Engineering themes |
+| --- | --- | --- |
+| [**codextractor**](https://github.com/hasanhuseyinyetkiner/codextractor) | A lightweight CLI for packaging repository context into structured, LLM-friendly Markdown | Python tooling, repository traversal, developer experience |
+| [**pop-lingo**](https://github.com/hasanhuseyinyetkiner/pop-lingo) | Desktop hover translation and dictionary workflows for Linux | Electron, desktop integration, usability |
+| [**Qt-SmartID-Reader-Service**](https://github.com/hasanhuseyinyetkiner/Qt-SmartID-Reader-Service) | Smart-card and serial-reader integration with a local service interface | C++/Qt, PC/SC, D-Bus, serial communication |
 
----
+> Public repositories are examples of code and engineering experiments. Review each repository's status, documentation, and security notes before production use.
 
-## 🛠️ Technology Arsenal
+## Current technical explorations
 
-<div align="center">
+I also explore applied systems that bridge algorithms, backend services, and explainable user workflows:
 
-**🛡️ Security & Protocols**
+- **Trustworthy information retrieval:** hybrid RAG, source provenance, citation quality, evaluation, and explicit uncertainty.
+- **Operations and decision-support tooling:** process mining, constraint-based scheduling, model disparity auditing, and graph-based skills analysis.
+- **Local and edge AI:** quantization, inference on limited compute budgets, model evaluation, and speech/language tooling.
+- **Connected devices:** reliable telemetry, secure messaging, remote-update coordination, and hardware/software integration.
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![TLS](https://img.shields.io/badge/SSL%2FTLS-4B5563?style=for-the-badge)
+Some of these projects are private prototypes or research exercises; their descriptions are not claims of public source availability or production deployment.
 
-**💻 Languages**
+## Engineering principles
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+**Correctness over screenshots.** A convincing demo is only the beginning; failure paths and independent checks matter.
 
-**🤖 Frameworks & Robotics**
+**Measure before claiming.** Benchmarks need an environment, a dataset, a baseline, and reproducible steps.
 
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+**Document the trade-offs.** Technology choices are useful when the constraints and alternatives are explained.
 
-**🧰 DevOps & Tools**
+**Security is a design constraint.** Especially where devices, operational systems, or sensitive information are involved.
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+## Education & continuing development
 
-</div>
-
----
-
-## 🏢 Professional Journey
-
-```
-🛡️  N&C S.p.A.          →  OT/IoT Security      | ICS Vulnerability Assessment | Industry 4.0
-🏭  Mepsan               →  Industrial IoT / MES | Secure MQTT | Edge AI (YOLO, LSTM)
-🛡️  Baykar Teknoloji     →  Autonomous UAV Systems | Real-Time C++ | Mission-Critical SW
-⚡  Aselsan              →  Defense Electronics  | Embedded HMI  | High-Performance GUI
-🎓  Univ. del Salento    →  Offensive Security   | Malware Analysis | CTF Lab (ongoing)
-```
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=hasanhuseyinyetkiner&show_icons=true&theme=github_dark&count_private=true&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanhuseyinyetkiner&layout=compact&theme=github_dark&langs_count=6&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=hasanhuseyinyetkiner&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hasanhuseyinyetkiner&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasanhuseyinyetkiner&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
-## 🎯 Core Competencies
-
-| Domain | Technologies | Level |
-|--------|-------------|-------|
-| 🛡️ OT/ICS & Industrial Security | Vulnerability Assessment, Secure-by-Design, MQTT/RS485 Hardening | ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜ Growing |
-| 🤖 Autonomous Systems | ROS, ROS2, Navigation Stack | ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ Expert |
-| 🖥️ GUI / HMI | Qt, QML, QtQuick | ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ Expert |
-| ⚡ Real-Time Software | RTOS, Multithreading, IPC | ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ Advanced |
-| 👁️ Computer Vision | OpenCV, Image Processing | ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ Advanced |
-| 🔐 Cryptography & Protocols | TLS, AES, RSA, SHA-256 | ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜ Developing |
-| 🐧 Systems Programming | Linux, POSIX, Kernel | ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜ Proficient |
+- **MSc in Computer Engineering (in progress)** — Selçuk University.
+- **Postgraduate specialization in Cybersecurity and Critical Infrastructure Protection (EQF Level 7)** — Università del Salento.
+- **Electrical-Electronics Engineering and Computer Engineering** — double-major background.
 
 ---
 
 <div align="center">
 
-<img width="100%" height="6px" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=6"/>
+**Interested in engineering work involving embedded software, C++ systems, cybersecurity, developer infrastructure, and practical AI.**
 
-**⚡ Open to collaborating on OT/ICS security, industrial IoT, and embedded-systems security projects ⚡**
-
-<sub><i>"Talk is cheap. Show me the code." — Linus Torvalds</i></sub>
+[GitHub projects](https://github.com/hasanhuseyinyetkiner?tab=repositories) · [LinkedIn](https://linkedin.com/in/hasan-huseyin-yetkiner) · [Portfolio](https://hasanhuseyinyetkiner.github.io/)
 
 </div>
