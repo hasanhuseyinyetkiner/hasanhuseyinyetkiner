@@ -17,6 +17,50 @@
 
 ---
 
+## Featured: HR engineering portfolio
+
+Five independent, open-source HR-tech engineering products. Each one is built around a hard engineering problem (retrieval correctness, process mining, constraint optimization, statistical fairness auditing, graph reasoning), runs locally on **synthetic data**, and ships with tests and CI. They are audit and decision-support demos: none of them makes hiring, promotion or termination decisions.
+
+<table>
+<tr>
+<td align="center" width="33%" valign="top">
+<a href="https://github.com/hasanhuseyinyetkiner/hr-policy-copilot"><img src="https://raw.githubusercontent.com/hasanhuseyinyetkiner/hr-policy-copilot/main/docs/assets/logo.png" alt="HR Policy Copilot" width="100%"></a>
+<br><sub>Cited answers from versioned policies; abstains when evidence is weak.</sub>
+</td>
+<td align="center" width="33%" valign="top">
+<a href="https://github.com/hasanhuseyinyetkiner/hiring-process-miner"><img src="https://raw.githubusercontent.com/hasanhuseyinyetkiner/hiring-process-miner/main/docs/assets/logo.png" alt="Hiring Process Miner" width="100%"></a>
+<br><sub>Process mining for hiring logs: bottlenecks, variants, data hygiene.</sub>
+</td>
+<td align="center" width="33%" valign="top">
+<a href="https://github.com/hasanhuseyinyetkiner/workforce-optimizer"><img src="https://raw.githubusercontent.com/hasanhuseyinyetkiner/workforce-optimizer/main/docs/assets/logo.png" alt="Workforce Optimizer" width="100%"></a>
+<br><sub>CP-SAT rostering with an independent validator and honest INFEASIBLE.</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%" valign="top">
+<a href="https://github.com/hasanhuseyinyetkiner/fairhire-audit"><img src="https://raw.githubusercontent.com/hasanhuseyinyetkiner/fairhire-audit/main/docs/assets/logo.png" alt="FairHire Audit" width="100%"></a>
+<br><sub>Group-disparity audits with confidence intervals and a Threshold Lab.</sub>
+</td>
+<td align="center" width="33%" valign="top">
+<a href="https://github.com/hasanhuseyinyetkiner/skillgraph"><img src="https://raw.githubusercontent.com/hasanhuseyinyetkiner/skillgraph/main/docs/assets/logo.png" alt="SkillGraph" width="100%"></a>
+<br><sub>Explainable role fit and cycle-safe learning paths.</sub>
+</td>
+<td></td>
+</tr>
+</table>
+
+| Product | Core engineering | Stack |
+| --- | --- | --- |
+| [**HR Policy Copilot**](https://github.com/hasanhuseyinyetkiner/hr-policy-copilot) | Hybrid BM25 + dense retrieval with RRF, extractive citations, revision-aware index | FastAPI, Qdrant, React |
+| [**Hiring Process Miner**](https://github.com/hasanhuseyinyetkiner/hiring-process-miner) | Event-log integrity, directly-follows maps, latency distributions (mean/median/P90) | FastAPI, pandas, React Flow |
+| [**Workforce Optimizer**](https://github.com/hasanhuseyinyetkiner/workforce-optimizer) | OR-Tools CP-SAT model, pure-Python validator, objective breakdown | FastAPI, OR-Tools, React |
+| [**FairHire Audit**](https://github.com/hasanhuseyinyetkiner/fairhire-audit) | Group metrics, AIR contingency tables, Fisher exact test, seeded bootstrap CIs | FastAPI, Fairlearn, SciPy, React |
+| [**SkillGraph**](https://github.com/hasanhuseyinyetkiner/skillgraph) | Ontology integrity checks, explainable role fit, cycle-safe learning paths | FastAPI, NetworkX, Cytoscape |
+
+Supporting repo: [**cursor-github-project-pack**](https://github.com/hasanhuseyinyetkiner/cursor-github-project-pack) (review checklists, ADR, release and test-evidence templates).
+
+---
+
 ## What I engineer
 
 My work spans **real-time C++ applications**, **embedded and industrial systems**, **backend infrastructure**, and **practical AI tooling**. I care about the engineering underneath the demo: observable behavior, clear interfaces, reproducible tests, and understandable trade-offs.
@@ -39,7 +83,7 @@ My work spans **real-time C++ applications**, **embedded and industrial systems*
 
 These are engineering areas and experience highlights, not a claim that every technology listed was used at every organization.
 
-## Selected public code
+## More public code
 
 | Repository | What it explores | Engineering themes |
 | --- | --- | --- |
