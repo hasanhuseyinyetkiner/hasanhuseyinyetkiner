@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="152" viewBox="0 0 1080 152" role="img" aria-label="Workforce Optimizer: Constraint-based scheduling with independent validation">
+  <rect x="0.5" y="0.5" width="1079" height="151" rx="12" fill="#f8fafc" stroke="#d8dee6"/>
+  <rect x="0" y="17" width="5" height="118" rx="2.5" fill="#B45309"/>
+  <text x="30" y="42" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#B45309">ENGINEERING STUDY / 03</text>
+  <text x="30" y="81" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700" fill="#152238">Workforce Optimizer</text>
+  <text x="30" y="111" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#48576a">Constraint-based scheduling with independent validation</text>
+  <text x="30" y="137" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="1.1" fill="#B45309">CONSTRAINTS  /  CP-SAT  /  SCHEDULE  /  VALIDATION</text>
+  <path d="M1021 59h25m-9-9 9 9-9 9" fill="none" stroke="#B45309" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
