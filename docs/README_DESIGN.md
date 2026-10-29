@@ -15,9 +15,9 @@ Each product is a single-operator local MVP; existing screenshots are synthetic 
 
 ## Visual direction
 
-Use short, direct headings, a compact logo, two meaningful badges, an authentic screen early, and an architecture diagram grounded in code. Keep documentation and limitation links close to the implementation evidence. Existing accent colors distinguish the products; the profile uses neutral cards with each product's accent. Each card has an equivalent text link directly below it so its content remains legible on small screens and available to assistive technology.
+Use short, direct headings, a compact logo, two meaningful badges, an authentic screen early, and an architecture diagram grounded in code. Keep documentation and limitation links close to the implementation evidence. Existing accent colors distinguish the products. The profile now leads with devices and tooling, highlights two applied systems experiments, and links to the remaining experiments without giving each a full promotional card.
 
-The reusable profile cards are static SVGs. Regenerate them from the profile repository root with `python scripts/generate_cards.py`; review the output and descriptive README links together. They intentionally use a fixed light surface so the text remains legible in either GitHub theme. Product screenshots use existing light/dark pairs where available.
+The earlier profile cards remain available as static SVG assets; they are not used by the current profile README. Regenerate them from the profile repository root with `python scripts/generate_cards.py` if needed. Product screenshots use existing light/dark pairs where available.
 
 Each product README also links to an optional GIF recorded from its actual UI with synthetic data. The static screenshot remains the default for readers who prefer not to view motion. All five product repositories include recorder scripts; check each README for the platform, installed dependencies, and retained temporary-data notes. When committing documentation changes, include the new GIFs, scripts and profile SVGs as well as the README edits.
 
